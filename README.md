@@ -8,4 +8,4 @@ I'd like to add an option to play against a chess bot at some point.
 
 Window size can be changed in main, GamePanel.
 
-Download link to .jar https://github.com/SalvaColl/Chess-Game/releases/download/v1.0.0/chess-game.jar
+[Download link](https://github.com/SalvaColl/Chess-Game/releases/download/v1.0.0/chess-game.jar) to .jar
